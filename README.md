@@ -23,6 +23,16 @@ The dataset includes:
 
 ---
 
+💡 Insights Gained
+Most sales occurred in major cities like Mumbai, Delhi, and Bangalore.
+
+iPhone SE and OnePlus Nord were among the top-selling models.
+
+Sales were highest in Q4, especially around festive months.
+
+UPI and Credit Cards were the most preferred payment methods.
+
+
 ## 📌 Key Features
 
 - ✅ **KPI Cards** for Quantity, Sales, Transactions, and Average Price
@@ -58,12 +68,3 @@ IF(
 
 
 
-💡 Insights Gained
-Most sales occurred in major cities like Mumbai, Delhi, and Bangalore.
-
-iPhone SE and OnePlus Nord were among the top-selling models.
-
-Sales were highest in Q4, especially around festive months.
-
-UPI and Credit Cards were the most preferred payment methods.
-)
